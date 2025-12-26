@@ -1,4 +1,4 @@
-name: C++ CI Pipeline
+name: CI
 on: [push]
 jobs:
   build:
